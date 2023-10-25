@@ -182,10 +182,14 @@ Cadastrar com a Microsoft**
 
 # PROCESSO DE CRIAÇÃO DO PROJETO
 
-pegamos um site do bootstrap como exemplo
+    pegamos um site do bootstrap como exemplo
 
-traduzimos suas informações pois estava em inglês 
+    traduzimos suas informações pois estava em inglês 
 
-modificamos informações para ficar mais coerente com o site
+    modificamos informações para ficar mais coerente com o site
 
-retiramos a parte de "selecionar estado
+    retiramos a parte de "selecionar estado" para voce mesmo preencher isso
+
+    adicionamos informações de
+
+
