@@ -2,7 +2,7 @@
 
 
 # INDICE
-
+*()[]
 
 ### Sites utilizados como exemplo
 
@@ -177,3 +177,15 @@ Cadastrar com o Facebook**
 Cadastrar com a Apple**
 //
 Cadastrar com a Microsoft**
+
+
+
+# PROCESSO DE CRIAÇÃO DO PROJETO
+
+pegamos um site do bootstrap como exemplo
+
+traduzimos suas informações pois estava em inglês 
+
+modificamos informações para ficar mais coerente com o site
+
+retiramos a parte de "selecionar estado
