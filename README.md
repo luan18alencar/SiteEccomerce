@@ -190,6 +190,6 @@ Cadastrar com a Microsoft**
 
     retiramos a parte de "selecionar estado" para voce mesmo preencher isso
 
-    adicionamos informações de
+    adicionamos 
 
 
